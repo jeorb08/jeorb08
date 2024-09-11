@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Bushra
-- 🌱 I’m currently learning Java , Machine Learning
+ 👋 Hi, I'm Bushra
+ 🌱 I’m currently learning Java ,Python , Machine Learning
 
 
 <!---
