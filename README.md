@@ -89,13 +89,7 @@ Data Science Learner specializing in:
 
 ---
 
-## 🐍 Contribution Neural Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jeorb08/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 
 
