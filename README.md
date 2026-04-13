@@ -105,24 +105,3 @@ Data Science Learner specializing in:
   </a>
 </p>
 
----
-
-## ⚡ Engineering Doctrine
-
-> Systems over scripts  
-> Intelligence over assumptions  
-> Scalability over shortcuts  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
-
-<h3 align="center">🚀 Data • Intelligence • Systems</h3>
-
----
-
-<p align="center">
-  <i>- Jeor</i>
-</p>
