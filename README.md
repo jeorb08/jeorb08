@@ -2,9 +2,7 @@
 
 <h1 align="center"> Jannatul Jeor Bushra </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Science;AI+%7C+Machine+Learning+%7C+Deep+Learning;Data+Analytics+%7C+Backend+Developer;Building+Scalable+Intelligent+Systems" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeorb08&label=Profile+Views&color=00f7ff&style=flat" />
