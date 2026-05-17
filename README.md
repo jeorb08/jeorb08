@@ -12,18 +12,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
 </p>
 
----
 
-##  Executive Profile
-
-Data Science Learner specializing in:
-
-- Artificial Intelligence (AI)
-- Machine Learning (ML) & Deep Learning (DL)
-- Advanced Data Analytics & Statistical Modeling
-- Scalable System Architecture & Data Engineering
-
----
 
 ## ⚙️ Technology Stack
 
